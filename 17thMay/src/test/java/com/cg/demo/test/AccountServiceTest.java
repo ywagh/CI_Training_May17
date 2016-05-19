@@ -115,7 +115,7 @@ public class AccountServiceTest {
 			e.printStackTrace();
 		} catch (InsufficientBalanceException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			
 		}
 		
 	}
